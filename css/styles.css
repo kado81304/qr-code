@@ -1,0 +1,37 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+font-family: 'Outfit', sans-serif;
+
+}
+.top-container{
+  background-color: White;
+  width: 300px;
+  height: 500px;
+  margin: auto;
+  -webkit-border-radius:25px;
+	-moz-border-radius:25px;
+}
+img{
+
+width: 250px;
+height: 250px;
+margin: auto;
+padding: 25px;
+border-radius: 25%;
+
+
+}
+.heading{
+  margin: auto;
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  text-align: center;
+width: 250px;
+}
+.dis{
+  font-size: 15px;
+  text-align: center;
+  margin: auto;
+  padding-top: 25px;
+  width: 250px;
+}
